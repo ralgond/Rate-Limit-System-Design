@@ -14,8 +14,7 @@ frontend http_front
     default_backend http_back
 
 backend http_back
-    server server1 192.168.1.10:80
-    server server2 192.168.1.11:80
+    server server1 localhost:80 maxconn 100
 ```
 
 参考文献：
