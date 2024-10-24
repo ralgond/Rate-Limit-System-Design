@@ -1,2 +1,5 @@
-# Use-HAProxy-As-Rate-Limiter
-用HAProxy作为限流器
+# Rate-Limit-System-Design
+
+限流器的系统设计
+
+## 架构图
